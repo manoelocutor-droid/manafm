@@ -1,0 +1,66 @@
+{
+  "stream_url": "http://95.154.197.82:39982/;",
+  "enable_banners": true,
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/Xf7xgF7b/anuncio.jpg",
+      "click_url": " "
+    },
+    
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/Xf7xgF7b/anuncio.jpg",
+      "click_url": " "
+    },
+
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/Xf7xgF7b/anuncio.jpg",
+      "click_url": " "
+    },
+
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/Xf7xgF7b/anuncio.jpg",
+      "click_url": " "
+    },
+
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/Xf7xgF7b/anuncio.jpg",
+      "click_url": " "
+    },
+
+{
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.ibb.co/Xf7xgF7b/anuncio.jpg",
+      "click_url": " "
+    }
+  ],
+  "enable_social": true,
+  "social_icons": [
+    { "icon": "whatsapp", "url": "https://wa.me/55" },
+    { "icon": "instagram", "url": "https://www.instagram.com/" },
+    { "icon": "youtube", "url": "https://youtube.com" },
+    
+  ]
+}
