@@ -29,14 +29,7 @@
       "click_url": " "
     },
 
-{
-      "title": "",
-      "subtitle": "",
-      "bg_color": "#111111",
-      "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/Xf7xgF7b/anuncio.jpg",
-      "click_url": " "
-    }
+
   ],
   "enable_social": true,
   "social_icons": [
