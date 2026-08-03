@@ -7,8 +7,8 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/Xf7xgF7b/anuncio.jpg",
-      "click_url": " "
+      "image_url": "https://i.ibb.co/wF0kLRSz/Gemini-Generated-Image-da1r4lda1r4lda1r.png",
+      "click_url": "00020126490014br.gov.bcb.pix0127radiomanafmbrasil@gmail.com5204000053039865802BR5914HGHDACEFB363976009Sao Paulo610901227-20062240520daqr351218880221622763048B20"
     },
     
 {
